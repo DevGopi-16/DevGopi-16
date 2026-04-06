@@ -2,8 +2,6 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Gopi+Prajapati)](https://git.io/typing-svg) -->
 
 <!-- Banner -->
-<!--img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Gopi%20Prajapati&animation=twinkling&desc=Innovating%20with%20Code%20%7C%20Aspiring%20Data%20Engineer%20%7C%20Python%20%7C%20SQL%20%7C%20AI%20Tools&fontColor=FAEBD7&descAlign=50&descSize=18&descAlignY=52&fontAlign=50&fontAlignY=39&fontSize=48"/-->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=Gopi%20Prajapati&animation=twinkling&desc=Innovating%20with%20Code%20|%20Aspiring%20Data%20Engineer%20|%20Python%20|%20SQL%20|%20AI%20Tools&fontColor=FAEBD7&descAlign=50&descSize=20&descAlignY=55&fontAlign=50&fontAlignY=38&fontSize=50"/>
 <p align="center">
   
