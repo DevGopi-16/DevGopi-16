@@ -47,8 +47,8 @@ I believe in **learning by building**, and I’m continuously improving my skill
 
 ## ⚡ GitHub Stats
 <div align="center">
-  <img width="390" src="https://github-readme-stats-fast.vercel.app/api?username=DevGopi-17&show_icons=true&count_private=true&theme=radical&border_radius=15"/>
-  <img width="390" src="https://github-readme-stats-fast.vercel.app/api/streak?username=DevGopi-17&theme=radical&border_radius=15"/>
+  <img width="390" src="https://github-readme-stats-fast.vercel.app/api?username=DevGopi-16&show_icons=true&count_private=true&theme=radical&border_radius=15"/>
+  <img width="390" src="https://github-readme-stats-fast.vercel.app/api/streak?username=DevGopi-16&theme=radical&border_radius=15"/>
 </div>
 
 ---
