@@ -97,3 +97,7 @@ I believe in **learning by building**, and I’m continuously improving my skill
 
 ## ⭐ Quote
 > “Code. Learn. Build. Repeat.”
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
