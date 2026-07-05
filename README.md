@@ -74,7 +74,7 @@ I believe in **learning by building**, and I’m continuously improving my skill
 <img src="https://img.shields.io/badge/Build_Your_Own_X-Python-blue?style=for-the-badge&logo=python"/><br/>
 <sub>Build Your Own X</sub>
 </a>
-</td>
+</td> 
 
 <td align="center">
 <a href="https://github.com/DevGopi-17/Multi-Functional-Security-Toolkit.git">
@@ -84,7 +84,7 @@ I believe in **learning by building**, and I’m continuously improving my skill
 </td>
 
 <td align="center">
-<a href="https://github.com/DevGopi-17/Movie-Recommendation-System.git">
+<a href="https://github.com/DevGopi-16/Movie-Recommendation-System.git">
 <img src="https://img.shields.io/badge/Movie_Recommendation-Python-orange?style=for-the-badge&logo=python"/><br/>
 <sub>Movie Recommendation System</sub>
 </a>
