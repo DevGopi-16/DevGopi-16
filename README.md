@@ -86,11 +86,11 @@ I believe in **learning by building**, and I’m continuously improving my skill
   <img width="49.5%" src="https://github-readme-stats-fast.vercel.app/api?username=DevGopi-16&show_icons=true&count_private=true&theme=radical&border_radius=15"/><img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevGopi-16&theme=radical&utcOffset=5.5"/>
 </p>
 
-[![divider_dual_energy_tracks](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/DevGopi-16)
+<!-- [![divider_dual_energy_tracks](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/DevGopi-16) -->
 
-<h2 align="center">🌈 3D Contributions</h2>
+<!-- <h2 align="center">🌈 3D Contributions</h2>
 
-![3D Contributions](https://raw.githubusercontent.com/DevGopi-16/DevGopi-16/main/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contributions](https://raw.githubusercontent.com/DevGopi-16/DevGopi-16/main/profile-3d-contrib/profile-night-rainbow.svg) -->
 
 
 
