@@ -2,7 +2,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Gopi+Prajapati)](https://git.io/typing-svg) -->
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=Gopi%20Prajapati&animation=twinkling&desc=Innovating%20with%20Code%20|%20Aspiring%20Data%20Engineer%20|%20Python%20|%20SQL%20|%20AI%20Tools&fontColor=FAEBD7&descAlign=50&descSize=20&descAlignY=55&fontAlign=50&fontAlignY=38&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=Gopi%20Prajapati&animation=twinkling&desc=Innovating%20with%20Code%20|%20Aspiring%20Data%20Engineer%20|%20Python%20|%20SQL%20|%20Applied%20AI%20Tools&fontColor=FAEBD7&descAlign=50&descSize=20&descAlignY=55&fontAlign=50&fontAlignY=38&fontSize=50"/>
 <p align="center">
   
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%E2%80%9CEvery%20line%20of%20code%20is%20a%20step%20toward%20mastery.%E2%80%9D" />
@@ -20,7 +20,7 @@
 <br>
 <p align="center">
 <samp>
-「 First-Year CS Student building with Python, SQL, and AI tools — exploring Data Engineering 」
+「 First-Year CS Student building with Python, SQL, and AI tools — aspiring Data Engineering 」
 </samp>
 </p>
 
@@ -52,13 +52,22 @@
 
 <h2 align="center"> 🎓 About Me </h2>
 
-- 🎓 First-Year Computer Science Student  
-- 💻 Python Developer | SQL | AI Tools | Networking Enthusiast  
-  
-I am a passionate **Computer Science undergraduate** who loves turning ideas into working solutions through code.  
-Currently exploring **Data Engineering, databases, and AI tools**, while building a strong foundation in **computer networks and problem-solving**.  
+<p align="center">
+ <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B7FD6&center=true&vCenter=true&width=600&lines=Second-Year+CS+Student;Python+Developer;SQL+%26+Applied+AI+Tools;Networking+Enthusiast"
+    alt="About me typing"
+  />
+</p>
 
-I believe in **learning by building**, and I’m continuously improving my skills through hands-on projects.
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓-First--Year_CS_Student-8B7FD6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💻-Python_%7C_SQL_%7C_Applied_AI_Tools-00D26A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐-Networking_Enthusiast-36BCF7?style=for-the-badge"/>
+</p>
+
+I am a passionate **Computer Science undergraduate** who loves turning ideas into working solutions through code.
+Currently exploring **Data Engineering, databases, and  Applied AI tools**, while building a strong foundation in **computer networks and problem-solving**.
+I believe in **learning by building**, and I'm continuously improving my skills through hands-on projects.
 
 [![divider_moving_neon_gradient2](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/DevGopi-16)
 
