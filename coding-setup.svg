@@ -1,0 +1,155 @@
+<svg viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="screenGlow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6C63FF" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#6C63FF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="deskGlow" cx="50%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#6C63FF" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#6C63FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <style>
+    .scan { animation: scan 3s linear infinite; }
+    @keyframes scan {
+      0%   { transform: translateY(-140px); opacity: 0; }
+      10%  { opacity: 1; }
+      90%  { opacity: 1; }
+      100% { transform: translateY(140px); opacity: 0; }
+    }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 0%,49%{opacity:1;} 50%,100%{opacity:0;} }
+
+    .codeline { animation: grow 2.6s ease-in-out infinite; transform-origin: left; }
+    @keyframes grow {
+      0%   { transform: scaleX(0.2); opacity:.4; }
+      50%  { transform: scaleX(1);   opacity:1; }
+      100% { transform: scaleX(0.2); opacity:.4; }
+    }
+    .l1 { animation-delay: 0s; }
+    .l2 { animation-delay: .3s; }
+    .l3 { animation-delay: .6s; }
+    .l4 { animation-delay: .9s; }
+    .l5 { animation-delay: 1.2s; }
+
+    .chair-rock { animation: rock 4s ease-in-out infinite; transform-origin: 450px 430px; }
+    @keyframes rock {
+      0%,100% { transform: rotate(0deg); }
+      50%     { transform: rotate(0.8deg); }
+    }
+
+    .glow-pulse { animation: pulse 3s ease-in-out infinite; }
+    @keyframes pulse {
+      0%,100% { opacity: 0.5; }
+      50%     { opacity: 1; }
+    }
+
+    .typing-hand { animation: type 0.4s ease-in-out infinite alternate; }
+    @keyframes type {
+      0%   { transform: translateY(0px); }
+      100% { transform: translateY(3px); }
+    }
+  </style>
+
+  <rect width="900" height="520" fill="url(#bg)"/>
+  <rect width="900" height="520" fill="url(#deskGlow)"/>
+
+  <!-- Floor -->
+  <rect x="0" y="470" width="900" height="50" fill="#010409"/>
+
+  <!-- ===== Monitor 1 (left) ===== -->
+  <g transform="translate(140,150) rotate(-6)">
+    <rect x="-10" y="-10" width="220" height="150" rx="8" fill="#010409" stroke="#6C63FF" stroke-opacity="0.4"/>
+    <rect x="0" y="0" width="200" height="130" fill="#0a1a10"/>
+    <clipPath id="clip1"><rect x="0" y="0" width="200" height="130"/></clipPath>
+    <g clip-path="url(#clip1)">
+      <rect class="codeline l1" x="10" y="15" width="140" height="6" fill="#6C63FF"/>
+      <rect class="codeline l2" x="10" y="32" width="110" height="6" fill="#36BCF7"/>
+      <rect class="codeline l3" x="10" y="49" width="160" height="6" fill="#6C63FF"/>
+      <rect class="codeline l4" x="10" y="66" width="90" height="6" fill="#FAEBD7" opacity="0.7"/>
+      <rect class="codeline l5" x="10" y="83" width="130" height="6" fill="#00D26A"/>
+      <rect class="scan" x="0" y="0" width="200" height="60" fill="url(#screenGlow)"/>
+    </g>
+    <rect x="90" y="130" width="20" height="18" fill="#30363d"/>
+    <rect x="60" y="148" width="80" height="8" rx="3" fill="#30363d"/>
+  </g>
+
+  <!-- ===== Monitor 2 (center, main) ===== -->
+  <g transform="translate(360,110)">
+    <rect x="-14" y="-14" width="260" height="180" rx="10" fill="#010409" stroke="#6C63FF" stroke-opacity="0.6"/>
+    <rect x="0" y="0" width="232" height="152" fill="#0a1a10"/>
+    <clipPath id="clip2"><rect x="0" y="0" width="232" height="152"/></clipPath>
+    <g clip-path="url(#clip2)">
+      <rect class="codeline l2" x="12" y="16" width="170" height="7" fill="#6C63FF"/>
+      <rect class="codeline l3" x="12" y="36" width="120" height="7" fill="#36BCF7"/>
+      <rect class="codeline l4" x="12" y="56" width="190" height="7" fill="#6C63FF"/>
+      <rect class="codeline l1" x="12" y="76" width="100" height="7" fill="#FAEBD7" opacity="0.7"/>
+      <rect class="codeline l5" x="12" y="96" width="150" height="7" fill="#00D26A"/>
+      <rect class="codeline l3" x="12" y="116" width="80" height="7" fill="#36BCF7"/>
+      <rect class="cursor" x="12" y="132" width="10" height="10" fill="#00D26A"/>
+      <rect class="scan" x="0" y="0" width="232" height="70" fill="url(#screenGlow)"/>
+    </g>
+    <rect x="106" y="152" width="20" height="20" fill="#30363d"/>
+    <rect x="70" y="172" width="92" height="9" rx="3" fill="#30363d"/>
+  </g>
+
+  <!-- ===== Monitor 3 (right) ===== -->
+  <g transform="translate(600,150) rotate(6)">
+    <rect x="-10" y="-10" width="220" height="150" rx="8" fill="#010409" stroke="#6C63FF" stroke-opacity="0.4"/>
+    <rect x="0" y="0" width="200" height="130" fill="#0a1a10"/>
+    <clipPath id="clip3"><rect x="0" y="0" width="200" height="130"/></clipPath>
+    <g clip-path="url(#clip3)">
+      <rect class="codeline l4" x="10" y="15" width="120" height="6" fill="#36BCF7"/>
+      <rect class="codeline l5" x="10" y="32" width="150" height="6" fill="#00D26A"/>
+      <rect class="codeline l1" x="10" y="49" width="90" height="6" fill="#6C63FF"/>
+      <rect class="codeline l2" x="10" y="66" width="140" height="6" fill="#FAEBD7" opacity="0.7"/>
+      <rect class="codeline l3" x="10" y="83" width="110" height="6" fill="#36BCF7"/>
+      <rect class="scan" x="0" y="0" width="200" height="60" fill="url(#screenGlow)"/>
+    </g>
+    <rect x="90" y="130" width="20" height="18" fill="#30363d"/>
+    <rect x="60" y="148" width="80" height="8" rx="3" fill="#30363d"/>
+  </g>
+
+  <!-- ===== Desk ===== -->
+  <rect x="90" y="330" width="720" height="18" rx="4" fill="#21262d"/>
+  <rect x="90" y="348" width="720" height="6" fill="#161b22"/>
+  <rect x="130" y="354" width="14" height="90" fill="#21262d"/>
+  <rect x="756" y="354" width="14" height="90" fill="#21262d"/>
+
+  <!-- Keyboard + mouse -->
+  <rect x="400" y="335" width="150" height="14" rx="3" fill="#30363d" class="typing-hand"/>
+  <rect x="565" y="337" width="26" height="16" rx="6" fill="#30363d"/>
+
+  <!-- ===== Person on chair ===== -->
+  <g class="chair-rock">
+    <!-- Chair back -->
+    <rect x="420" y="270" width="80" height="130" rx="20" fill="#21262d"/>
+    <!-- Chair base -->
+    <rect x="430" y="440" width="60" height="10" rx="4" fill="#161b22"/>
+    <rect x="450" y="400" width="8" height="42" fill="#30363d"/>
+    <circle cx="420" cy="452" r="8" fill="#30363d"/>
+    <circle cx="480" cy="452" r="8" fill="#30363d"/>
+    <circle cx="450" cy="460" r="8" fill="#30363d"/>
+
+    <!-- Body -->
+    <rect x="422" y="300" width="76" height="90" rx="24" fill="#6C63FF" opacity="0.85"/>
+    <!-- Head -->
+    <circle cx="460" cy="270" r="26" fill="#FAEBD7" opacity="0.9"/>
+    <!-- Arms reaching to keyboard -->
+    <rect class="typing-hand" x="405" y="330" width="45" height="12" rx="6" fill="#FAEBD7" opacity="0.85"/>
+    <rect class="typing-hand" x="470" y="330" width="45" height="12" rx="6" fill="#FAEBD7" opacity="0.85"/>
+  </g>
+
+  <!-- Ambient glow at feet of monitors -->
+  <ellipse class="glow-pulse" cx="450" cy="345" rx="260" ry="14" fill="#6C63FF" opacity="0.15"/>
+
+  <!-- Caption -->
+  <text x="450" y="500" text-anchor="middle" font-family="Fira Code, monospace" font-size="16" fill="#6C63FF" opacity="0.85">
+    &gt; compiling dreams into code_
+  </text>
+</svg>
