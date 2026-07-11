@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/DevGopi-16/DevGopi-16/main/coding-setup.svg" alt="Animated coder with 3 monitors">
+<img src="https://raw.githubusercontent.com/DevGopi-16/DevGopi-16/main/coding-setup.svg" alt="Animated coder with 3 monitors" width="700">
 </p>
 
 
