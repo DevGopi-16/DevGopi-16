@@ -83,14 +83,12 @@ I believe in **learning by building**, and I'm continuously improving my skills 
 
 <h2 align="center">📊 Activity</h2>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevGopi-16&theme=react-dark&hide_border=true&area=true"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DevGopi-16&theme=radical&border_radius=15&v=2" />
-</p>
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevGopi-16&theme=radical&border_radius=15"  alt="Github contribution streak"/>
 </p>
 
 <p align="center">
