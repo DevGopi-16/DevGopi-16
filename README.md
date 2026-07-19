@@ -105,7 +105,7 @@ I believe in **learning by building**, and I'm continuously improving my skills 
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/DevGopi-16)
 
-<h2 align="center"> 📌 Projects </h2>
+<!-- <h2 align="center"> 📌 Projects </h2>
 
 <div align="center">
 <table>
@@ -139,7 +139,7 @@ I believe in **learning by building**, and I'm continuously improving my skills 
 </td>
 </tr>
 </table>
-</div>
+</div> -->
 
 
 <!-- [![divider_circuit_pulse_bar](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/DevGopi-16) -->
