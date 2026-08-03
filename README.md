@@ -109,6 +109,9 @@ I believe in **learning by building**, and I'm continuously improving my skills 
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/DevGopi-16)
 
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/DevGopi-16/DevGopi-16/main/projects.svg" alt="Projects" />
+</div>
 <!-- <h2 align="center"> 📌 Projects </h2>
 
 <div align="center">
