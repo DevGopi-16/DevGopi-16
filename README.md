@@ -1,9 +1,13 @@
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/DevGopi-16/DevGopi-16/main/profile-dark.svg" alt="Gopi Prajapati" />
+</div>
+
 <!-- Typing SVG (optional) -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Gopi+Prajapati)](https://git.io/typing-svg) -->
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=Gopi%20Prajapati&animation=twinkling&desc=Innovating%20with%20Code%20|%20Aspiring%20Data%20Engineer%20|%20Python%20|%20SQL%20|%20Applied%20AI%20Tools&fontColor=FAEBD7&descAlign=50&descSize=20&descAlignY=55&fontAlign=50&fontAlignY=38&fontSize=50"/>
-<p align="center">
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=Gopi%20Prajapati&animation=twinkling&desc=Innovating%20with%20Code%20|%20Aspiring%20Data%20Engineer%20|%20Python%20|%20SQL%20|%20Applied%20AI%20Tools&fontColor=FAEBD7&descAlign=50&descSize=20&descAlignY=55&fontAlign=50&fontAlignY=38&fontSize=50"/>
+<p align="center"> -->
   
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%E2%80%9CEvery%20line%20of%20code%20is%20a%20step%20toward%20mastery.%E2%80%9D" />
 </p> -->
@@ -11,7 +15,7 @@
 
 
 <!-- Title -->
-<h3 align="center">
+<!-- <h3 align="center">
     <samp>
         &gt; Hey There!, I am
         <b><a target="_blank" href="https://www.linkedin.com/in/gopi-prajapati">Gopi Prajapati</a></b>
@@ -77,11 +81,11 @@ I believe in **learning by building**, and I'm continuously improving my skills 
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,replit,notion,sqlite,powershell,fastapi,vercel"/>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mysql,tensorflow,flask,gitlab,githubactions,azure"/>
-</div>
+</div> -->
 
 [![divider_moving_neon_gradient2](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/DevGopi-16)
 
-<h2 align="center">📊 Activity</h2>
+<!-- <h2 align="center">📊 Activity</h2> -->
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevGopi-16&theme=react-dark&hide_border=true&area=true"/>
